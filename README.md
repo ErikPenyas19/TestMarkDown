@@ -33,3 +33,5 @@ Lista desordenada:
 ```
  
  [Enlace wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Click aquí")
+
+![Foto](https://github.com/ErikPenyas19/TestMarkDown/blob/main/rECORTE%20RANDOM.PNG "XD")
