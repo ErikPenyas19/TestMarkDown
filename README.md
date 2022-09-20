@@ -35,3 +35,10 @@ Lista desordenada:
  [Enlace wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Click aquí")
 
 ![Foto](https://github.com/ErikPenyas19/TestMarkDown/blob/main/rECORTE%20RANDOM.PNG "XD")
+
+
+| Encabezado1 | Encabezado2 | Encabezado3 |
+| ----------- |:-----------:| -----------:|
+| Item1 | Bolígrafos | 20€ |
+| Item2 | Grapadoras | 100€ |
+| Item3 | Lápices | 60€ |
